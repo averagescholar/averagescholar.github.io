@@ -12,7 +12,7 @@ permalink:        pretty
 title:            AverageScholar
 tagline:          'An average scholar'
 description:      'A blog of an average scholar'
-baseurl:          /
+baseurl:          ""
 
 paginate:         5
 
