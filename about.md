@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-date:   2020-10-15 14:04:37 +1100
 ---
 
 The author of this blog has just moved from an undergraduate student to a Ph.D. position. Conventionally, for a student without a master degree, the Ph.D. program would take from 5 to 6 years to complete, as he has to attend entry-level courses to acquire a solid foundation. However, here in Australia, Ph.D. students are assumed to have already had the proper knowledge that the program only takes around 3-4 years. Hence, it is the students' responsibility to acquire the foundation knowledge to make the most out of their Ph.D. program. 
